@@ -1,7 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+</div>
 
-<!--
-**Karabosithole/Karabosithole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src= "https://github.com/Karabosithole/Karabosithole/blob/main/asset/Untitled-ezgif.com-video-to-gif-converter.gif" alt="Custom GIF">
+</div>
 
+<div align="center">
+  <p>You have finally discovered my Github profile.</p>
+  <p>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</p>
+  <p>Ask me anything here or email me.</p>
+</div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="600">
