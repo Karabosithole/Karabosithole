@@ -4,7 +4,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Karabosithole/Karabosithole/blob/main/asset/Untitled-ezgif.com-video-to-gif-converter.gif" alt="Custom GIF">
+  <img src="https://github.com/Karabosithole/Karabosithole/blob/main/asset/c2c4e83d-f854-4378-b14c-6abf5f1bf834_0.png" 
+       alt="Custom GIF" 
+       style="max-width: 80%; height: auto; width: 60%;" />
 </div>
 
 <div align="center">
