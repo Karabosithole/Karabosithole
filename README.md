@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://github.com/Karabosithole/Karabosithole/blob/main/asset/c2c4e83d-f854-4378-b14c-6abf5f1bf834_0.png" 
        alt="Custom GIF" 
-       style="max-width: 80%; height: auto; width: 60%;" />
+       style="max-width: 60%; height: auto; width: 40%;" />
 </div>
 
 <div align="center">
