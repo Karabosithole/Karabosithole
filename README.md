@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>
-    I'm a Tech Enthusiast with a strong focus in *cybersecurity and a passion for exploring and understanding technology.
+    I'm a Tech Enthusiast with a strong focus on cybersecurity and a passion for exploring and understanding technology.
     I love creating tools that improve everyday life and benefit others. My fascination with technology drives me to delve into how systems work and build innovative solutions.
     Always eager to push the boundaries of what's possible, I blend creativity with technical expertise to make a meaningful impact.
   </p>
