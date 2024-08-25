@@ -11,9 +11,7 @@
 
 <div align="center">
   <p>
-    I'm a Tech Enthusiast with a strong focus on cybersecurity and a passion for exploring and understanding technology.
-    I love creating tools that improve everyday life and benefit others. My fascination with technology drives me to delve into how systems work and build innovative solutions.
-    Always eager to push the boundaries of what's possible, I blend creativity with technical expertise to make a meaningful impact.
+    I’m a tech enthusiast with a strong focus on cybersecurity and a passion for exploring and understanding technology. I value high-quality work, hard work, and innovation, and      I love creating tools that improve everyday life and benefit others. My fascination with technology drives me to delve into how systems work and build innovative solutions.        Always eager to push the boundaries of what’s possible, I blend creativity with technical expertise to make a meaningful impact.
   </p>
 
   <p>
